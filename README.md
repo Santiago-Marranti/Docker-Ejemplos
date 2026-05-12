@@ -17,3 +17,8 @@
 ![alt text](ejem03/image.png)
 
 ![alt text](ejem03/image-2.png)
+
+## Ejemplo 4:
+![alt text](ejem04/images/image.png)
+![alt text](ejem04/images/image-3.png)
+![alt text](ejem04/images/image-2.png)
