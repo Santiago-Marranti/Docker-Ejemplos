@@ -82,3 +82,8 @@ El script sigue ejecutando aunque algo falle.
 ![alt text](ejem07/images/image-1.png)
 ![alt text](ejem07/images/image-2.png)
 ![alt text](ejem07/images/image-3.png)
+
+## Ejemplo 9:
+![alt text](ejem09/images/image-1.png)
+![alt text](ejem09/images/image-2.png)
+![alt text](ejem09/images/image-3.png)
