@@ -10,4 +10,5 @@ insert into usuarios (nombre, email) VALUES
     ("Jose", "Vue"),
     ("Victor", "Aparejador"),
     ("Soraya", "Angular"),
-    ("Luis", "Docker");
+    ("Luis", "Docker"),
+    ("Santiago Marranti", "marrantis@gmail.com");
